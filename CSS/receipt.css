@@ -1,0 +1,30 @@
+@page{
+    size: A4 portrait;
+    padding: 10px;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-weight: bolder;
+    display:inline;
+    margin-top: 50px;
+}
+#receipt_head{
+    background-color: #659DBD;
+    width: 97%;
+    padding: 12px;
+    color: white;
+    border: solid 2px #121212;
+    height: 72px;
+}
+#receipt_body{
+    border: solid 1px #121212;
+    width: 98%;
+    height: auto;
+    padding: 10px;
+    min-height: 450px;
+}
+span{
+    float: right;
+}

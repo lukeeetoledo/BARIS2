@@ -1,0 +1,29 @@
+{
+    "name": "Barangay and Residents' Information System",
+    "short_name": "BaRIS",
+    "id":"/BARIS/",
+    "start_url": "./home.php",
+    "background_color": "#121212",
+    "theme_color": "#121212",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "img/Logo_192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose":"any"
+        },
+        {
+            "src": "img/Logo_192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose":"maskable"
+        },
+        {
+            "src": "img/Logo_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+}
